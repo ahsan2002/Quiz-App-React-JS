@@ -1,0 +1,42 @@
+export const Questions = [
+    {
+      prompt: "What does HTML stand for?",
+      optionA: "Hyper Trainer Marking Language",
+      optionB: "Hyper Text Marketing Language",
+      optionC: "Hyper Text Markup Language",
+      optionD: "Hyper Text Markup Leveler",
+      asnwer: "C",
+    },
+    {
+      prompt: "What does CSS stand for?",
+      optionA: "Computing Style Sheet",
+      optionB: "Creative Style System",
+      optionC: "Cascading Style Sheet",
+      optionD: "Creative Styling Sheet",
+      asnwer: "C",
+    },
+    {
+      prompt: "Which one is the smallest heading tag?",
+      optionA: "h3",
+      optionB: "h1",
+      optionC: "h4",
+      optionD: "h5",
+      asnwer: "D",
+    },
+    {
+      prompt: "Which of this is not a programming language?",
+      optionA: "Python",
+      optionB: "JavaScript",
+      optionC: "MC-03",
+      optionD: "Java",
+      asnwer: "C",
+    },
+    {
+      prompt: "Which of this is not a javascript framework?",
+      optionA: "React",
+      optionB: "Angular",
+      optionC: "Vue",
+      optionD: "Java",
+      asnwer: "D",
+    },
+  ];
